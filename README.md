@@ -38,7 +38,7 @@ Described [here](http://www.firstsensor.com.cn/products_detail/productId=144.htm
 
 ### Temperature, Pressure, Humidity
 
-BME280 Ino [here](https://www.bosch-sensortec.com/bst/products/all_products/bme280)
+BME280 Info [here](https://www.bosch-sensortec.com/bst/products/all_products/bme280)
 
 ![BME280](images/bme280.png)
 
