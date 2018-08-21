@@ -36,6 +36,15 @@ Described [here](http://www.firstsensor.com.cn/products_detail/productId=144.htm
 
 ----
 
+### Temperature, Pressure, Humidity
+
+BME280 Ino [here](https://www.bosch-sensortec.com/bst/products/all_products/bme280)
+
+![BME280](images/bme280.png)
+
+
+----
+
 
 License is [MIT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiO2Mv4y_7cAhUFM5oKHSkxA90QFjADegQIBhAB&url=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT&usg=AOvVaw1MsEPekvPKCIceu2jiRDy4)
 
