@@ -16,5 +16,7 @@ This code is part of the [VSCP project](https://www.vscp.org).
 ![](https://cdn.sparkfun.com//assets/parts/2/2/3/3/08942-01.jpg)
 
 
+License is [MIT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiO2Mv4y_7cAhUFM5oKHSkxA90QFjADegQIBhAB&url=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT&usg=AOvVaw1MsEPekvPKCIceu2jiRDy4)
 
+Copyright 2018 [Ake Hedman], Grodans Paradis AB (akhe@grodansparadis.com)
 
